@@ -36,6 +36,8 @@ We hypothesize that model performance is **not uniform** across sarcasm types. S
 
 **Sarcasm Corpus V2** (Oraby et al., 2016) — forum debate posts, perfectly balanced between sarcastic and non-sarcastic examples.
 
+📥 **Source:** [github.com/soraby/sarcasm2 → `sarcasm_v2`](https://github.com/soraby/sarcasm2/tree/main/sarcasm_v2)
+
 | File | Category | Sarcasm Device |
 |------|----------|----------------|
 | `GEN-sarc-notsarc.csv` | General | Mixed / general sarcasm |
@@ -45,7 +47,7 @@ We hypothesize that model performance is **not uniform** across sarcasm types. S
 - **Total samples:** 9,386 (balanced 50/50 across the `sarc` / `notsarc` label)
 - **Split:** 80% train (7,508) / 20% test (1,878), stratified by label
 
-> ⚠️ The three CSV files are **not** included in this repo. Download the [Sarcasm Corpus V2](https://nlds.soe.ucsc.edu/sarcasm2) and place `GEN-sarc-notsarc.csv`, `HYP-sarc-notsarc.csv`, and `RQ-sarc-notsarc.csv` in the notebook's working directory (or upload them to your Colab session).
+> ⚠️ The three CSV files are **not** included in this repo. Download them from the [source repository](https://github.com/soraby/sarcasm2/tree/main/sarcasm_v2) and place `GEN-sarc-notsarc.csv`, `HYP-sarc-notsarc.csv`, and `RQ-sarc-notsarc.csv` in the notebook's working directory (or upload them to your Colab session).
 
 ---
 
