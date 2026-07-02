@@ -157,7 +157,11 @@ The notebook is organized into 8 segments: imports & data loading → aggressive
 
 ## 🖼️ Research Poster
 
-A one-page visual summary of the study is available in [`Poster.png`](Poster.png).
+A one-page visual summary of the study:
+
+<p align="center">
+  <a href="Poster.png"><img src="Poster.png" alt="Research poster — Context-Aware Sarcasm Detection" width="750"/></a>
+</p>
 
 ---
 
